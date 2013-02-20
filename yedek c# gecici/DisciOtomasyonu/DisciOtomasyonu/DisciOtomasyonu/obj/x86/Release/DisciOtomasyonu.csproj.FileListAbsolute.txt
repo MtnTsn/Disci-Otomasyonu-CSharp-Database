@@ -1,0 +1,23 @@
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form1.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form10.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form11.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form12.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.yenikalemgider.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form2.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form3.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form4.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form5.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form6.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form7.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form8.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Form9.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.Properties.Resources.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\bin\Release\DisciOtomasyonu.exe
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\bin\Release\DisciOtomasyonu.pdb
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.exe
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.pdb
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.exe
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Release\DisciOtomasyonu.pdb

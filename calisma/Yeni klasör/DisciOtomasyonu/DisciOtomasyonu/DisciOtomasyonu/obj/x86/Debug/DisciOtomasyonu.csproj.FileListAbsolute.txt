@@ -1,0 +1,83 @@
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\bin\Debug\DisciOtomasyonu.exe
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\bin\Debug\DisciOtomasyonu.pdb
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form1.resources
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Properties.Resources.resources
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.exe
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.pdb
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form2.resources
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form3.resources
+c:\users\asengul\documents\visual studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form4.resources
+C:\Users\ASENGUL\Documents\Visual Studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form5.resources
+C:\Users\ASENGUL\Documents\Visual Studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form6.resources
+C:\Users\ASENGUL\Documents\Visual Studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form7.resources
+C:\Users\ASENGUL\Documents\Visual Studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form8.resources
+C:\Users\ASENGUL\Documents\Visual Studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form9.resources
+C:\Users\ASENGUL\Documents\Visual Studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form10.resources
+C:\Users\ASENGUL\Documents\Visual Studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form11.resources
+C:\Users\ASENGUL\Documents\Visual Studio 2010\Projects\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form12.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.exe
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.pdb
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\bin\Debug\DisciOtomasyonu.exe
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\bin\Debug\DisciOtomasyonu.pdb
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form1.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form10.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form11.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form12.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form2.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form3.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form4.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form5.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form6.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form7.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form8.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form9.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Properties.Resources.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.yenikalemgider.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.exe
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form1.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form10.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form11.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form12.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.yenikalemgider.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form2.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form3.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form4.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form5.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form6.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form7.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form8.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form9.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Properties.Resources.resources
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\bin\Debug\DisciOtomasyonu.exe
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\bin\Debug\DisciOtomasyonu.pdb
+C:\Users\mustafa\Desktop\masaüstü\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.pdb
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\bin\Debug\DisciOtomasyonu.exe
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\bin\Debug\DisciOtomasyonu.pdb
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form1.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form10.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form11.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form12.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.yenikalemgider.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form2.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form3.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form4.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form5.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form6.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form7.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form8.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Form9.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.Properties.Resources.resources
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.exe
+C:\Documents and Settings\ercan\Desktop\c# disciotomasyonu\calisma\Yeni klasör\DisciOtomasyonu\DisciOtomasyonu\DisciOtomasyonu\obj\x86\Debug\DisciOtomasyonu.pdb
